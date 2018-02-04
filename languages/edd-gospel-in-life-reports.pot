@@ -1,0 +1,233 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Easy Digital Downloads - Gospel In Life Reports\n"
+"POT-Creation-Date: 2018-02-04 20:02+0000\n"
+"PO-Revision-Date: 2018-02-04 20:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: edd-gospel-in-life-reports.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: edd-gospel-in-life-reports.php:131
+msgid "Product"
+msgstr ""
+
+#: edd-gospel-in-life-reports.php:132
+msgid "SKU"
+msgstr ""
+
+#: edd-gospel-in-life-reports.php:133
+msgid "Sales"
+msgstr ""
+
+#: edd-gospel-in-life-reports.php:134
+msgid "Amount"
+msgstr ""
+
+#: edd-gospel-in-life-reports.php:135
+msgid "Tax"
+msgstr ""
+
+#: edd-gospel-in-life-reports.php:136
+msgid "Categories"
+msgstr ""
+
+#: edd-gospel-in-life-reports.php:137
+msgid "Tags"
+msgstr ""
+
+#: edd-gospel-in-life-reports.php:138
+msgid "Formats"
+msgstr ""
+
+#: edd-gospel-in-life-reports.php:139
+msgid "Speakers"
+msgstr ""
+
+#: edd-gospel-in-life-reports.php:140
+msgid "Locations"
+msgstr ""
+
+#: includes/admin/class-formats-reports-table.php:83
+msgid "Format"
+msgstr ""
+
+#: includes/admin/class-formats-reports-table.php:84
+#: includes/admin/class-locations-reports-table.php:84
+#: includes/admin/class-speakers-reports-table.php:84
+#: includes/admin/class-tags-reports-table.php:84
+msgid "Total Sales"
+msgstr ""
+
+#: includes/admin/class-formats-reports-table.php:85
+#: includes/admin/class-locations-reports-table.php:85
+#: includes/admin/class-speakers-reports-table.php:85
+#: includes/admin/class-tags-reports-table.php:85
+msgid "Total Earnings"
+msgstr ""
+
+#: includes/admin/class-formats-reports-table.php:86
+#: includes/admin/class-locations-reports-table.php:86
+#: includes/admin/class-speakers-reports-table.php:86
+#: includes/admin/class-tags-reports-table.php:86
+msgid "Monthly Sales Avg"
+msgstr ""
+
+#: includes/admin/class-formats-reports-table.php:87
+#: includes/admin/class-locations-reports-table.php:87
+#: includes/admin/class-speakers-reports-table.php:87
+#: includes/admin/class-tags-reports-table.php:87
+msgid "Monthly Earnings Avg"
+msgstr ""
+
+#: includes/admin/class-formats-reports-table.php:223
+#: includes/admin/class-locations-reports-table.php:223
+#: includes/admin/class-speakers-reports-table.php:223
+#: includes/admin/class-tags-reports-table.php:223
+msgid "Less than 1"
+msgstr ""
+
+#: includes/admin/class-formats-reports-table.php:330
+#: includes/admin/class-locations-reports-table.php:330
+#: includes/admin/class-speakers-reports-table.php:330
+#: includes/admin/class-tags-reports-table.php:330
+msgid "No sales for dates provided."
+msgstr ""
+
+#: includes/admin/class-formats-reports-table.php:371
+#: includes/admin/class-locations-reports-table.php:371
+#: includes/admin/class-speakers-reports-table.php:371
+#: includes/admin/class-tags-reports-table.php:371
+msgid "No earnings for dates provided."
+msgstr ""
+
+#: includes/admin/class-locations-reports-table.php:83
+msgid "Location"
+msgstr ""
+
+#: includes/admin/class-speakers-reports-table.php:83
+msgid "Speaker"
+msgstr ""
+
+#: includes/admin/class-tags-reports-table.php:83
+msgid "Tag"
+msgstr ""
+
+#: includes/admin/reports.php:17
+msgid "Earnings by Tag"
+msgstr ""
+
+#: includes/admin/reports.php:21
+msgid "Earnings by Speaker"
+msgstr ""
+
+#: includes/admin/reports.php:26
+msgid "Earnings by Location"
+msgstr ""
+
+#: includes/admin/reports.php:31
+msgid "Earnings by Format"
+msgstr ""
+
+#: includes/admin/reports.php:64
+msgid "Tag Sales Mix: "
+msgstr ""
+
+#: includes/admin/reports.php:68
+msgid "Tag Earnings Mix: "
+msgstr ""
+
+#: includes/admin/reports.php:77
+msgid "All Parent tags include sales and earnings stats from child tags."
+msgstr ""
+
+#: includes/admin/reports.php:80 includes/admin/reports.php:131
+#: includes/admin/reports.php:182 includes/admin/reports.php:233
+msgid "Stats include all sales and earnings for the lifetime of the store."
+msgstr ""
+
+#: includes/admin/reports.php:115
+msgid "Speaker Sales Mix: "
+msgstr ""
+
+#: includes/admin/reports.php:119
+msgid "Speaker Earnings Mix: "
+msgstr ""
+
+#: includes/admin/reports.php:128
+msgid ""
+"All Parent Speakers include sales and earnings stats from child speakers."
+msgstr ""
+
+#: includes/admin/reports.php:166
+msgid "Location Sales Mix: "
+msgstr ""
+
+#: includes/admin/reports.php:170
+msgid "Location Earnings Mix: "
+msgstr ""
+
+#: includes/admin/reports.php:179
+msgid ""
+"All Parent Locations include sales and earnings stats from child locations."
+msgstr ""
+
+#: includes/admin/reports.php:217
+msgid "Format Sales Mix: "
+msgstr ""
+
+#: includes/admin/reports.php:221
+msgid "Format Earnings Mix: "
+msgstr ""
+
+#: includes/admin/reports.php:230
+msgid "All Parent Formats include sales and earnings stats from child formats."
+msgstr ""
+
+#: includes/classes/class-activation.php:47
+msgid "This plugin"
+msgstr ""
+
+#: includes/classes/class-activation.php:84
+msgid "activate it"
+msgstr ""
+
+#: includes/classes/class-activation.php:87
+msgid "install it"
+msgstr ""
+
+#: includes/classes/class-activation.php:90
+#, php-format
+msgid " requires Easy Digital Downloads! Please %s to continue!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Easy Digital Downloads - Gospel In Life Reports"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://sellcomet.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Extends and improves existing Easy Digital Downloads reporting functionality."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sell Comet"
+msgstr ""
